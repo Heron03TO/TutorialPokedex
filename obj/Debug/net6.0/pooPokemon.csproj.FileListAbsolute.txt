@@ -1,0 +1,15 @@
+C:\Users\VAIO\Desktop\Projetos\pooPokemon\obj\Debug\net6.0\pooPokemon.csproj.AssemblyReference.cache
+C:\Users\VAIO\Desktop\Projetos\pooPokemon\obj\Debug\net6.0\pooPokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VAIO\Desktop\Projetos\pooPokemon\obj\Debug\net6.0\pooPokemon.AssemblyInfoInputs.cache
+C:\Users\VAIO\Desktop\Projetos\pooPokemon\obj\Debug\net6.0\pooPokemon.AssemblyInfo.cs
+C:\Users\VAIO\Desktop\Projetos\pooPokemon\obj\Debug\net6.0\pooPokemon.csproj.CoreCompileInputs.cache
+C:\Users\VAIO\Desktop\Projetos\pooPokemon\bin\Debug\net6.0\pooPokemon.exe
+C:\Users\VAIO\Desktop\Projetos\pooPokemon\bin\Debug\net6.0\pooPokemon.deps.json
+C:\Users\VAIO\Desktop\Projetos\pooPokemon\bin\Debug\net6.0\pooPokemon.runtimeconfig.json
+C:\Users\VAIO\Desktop\Projetos\pooPokemon\bin\Debug\net6.0\pooPokemon.dll
+C:\Users\VAIO\Desktop\Projetos\pooPokemon\bin\Debug\net6.0\pooPokemon.pdb
+C:\Users\VAIO\Desktop\Projetos\pooPokemon\obj\Debug\net6.0\pooPokemon.dll
+C:\Users\VAIO\Desktop\Projetos\pooPokemon\obj\Debug\net6.0\refint\pooPokemon.dll
+C:\Users\VAIO\Desktop\Projetos\pooPokemon\obj\Debug\net6.0\pooPokemon.pdb
+C:\Users\VAIO\Desktop\Projetos\pooPokemon\obj\Debug\net6.0\pooPokemon.genruntimeconfig.cache
+C:\Users\VAIO\Desktop\Projetos\pooPokemon\obj\Debug\net6.0\ref\pooPokemon.dll
